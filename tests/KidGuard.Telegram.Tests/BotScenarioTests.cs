@@ -1,5 +1,6 @@
 using System.Text.RegularExpressions;
 using KidGuard.Core;
+using KidGuard.Core.Tests;
 
 namespace KidGuard.Telegram.Tests;
 
