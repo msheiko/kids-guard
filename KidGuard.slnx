@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KidGuard.Core/KidGuard.Core.csproj" />
+    <Project Path="src/KidGuard.Win32/KidGuard.Win32.csproj" />
+    <Project Path="src/KidGuard.Telegram/KidGuard.Telegram.csproj" />
+    <Project Path="src/KidGuard.Service/KidGuard.Service.csproj" />
+    <Project Path="src/KidGuard.Tray/KidGuard.Tray.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/KidGuard.Core.Tests/KidGuard.Core.Tests.csproj" />
+    <Project Path="tests/KidGuard.Telegram.Tests/KidGuard.Telegram.Tests.csproj" />
+  </Folder>
+</Solution>
